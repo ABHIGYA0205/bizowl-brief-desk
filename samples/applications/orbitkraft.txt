@@ -1,0 +1,10 @@
+@intake new application:
+Startup: OrbitKraft
+Sector: Spacetech
+Stage: Seed
+Problem: Indian small-satellite makers import 70% of their components.
+Solution: Locally made satellite power and thermal components.
+Traction: 2 pilot orders, Rs 18 lakh revenue.
+Team: CEO ex-ISRO engineer, CTO PhD in aerospace.
+Funding ask: Rs 3 crore
+Use of funds: 70% manufacturing, 30% certification

@@ -1,0 +1,56 @@
+@intake new application:
+Full name
+Rohit Malviya
+Mobile
++91 99999 00000
+Email
+rohit@khetora.example
+LinkedIn
+https://www.linkedin.com/in/rohit-malviya-demo/
+City
+Indore
+State
+Madhya Pradesh
+Submitted from
+Startup Fundraising page
+Company
+Khetora Agritech Private Limited
+Sector
+Agritech
+Stage
+Scaling
+Incorporated
+Yes
+Website
+https://khetora.example
+Traction
+Users or customers
+45 farmer producer organisations (FPOs)
+Monthly revenue
+8 lakh
+Growth rate
+60% MoM
+Other key metrics
+Partnered with leading FPOs across India
+Problem and market
+The problem
+Small farmers in Madhya Pradesh sell soybean and wheat at the mandi without knowing the grade of their crop, so traders underpay them by 10-15%. Grading labs are far away and slow.
+Target market
+Farmer producer organisations in central India, and the traders and processors who buy from them.
+Market size
+Founder's estimate: India has over 10,000 registered FPOs, and quality testing is a growing need as more FPOs sell directly to processors.
+Their story
+Why this founder
+I grew up in a farming family near Indore and saw my father lose money at the mandi every season. I studied agricultural engineering and worked for 4 years in procurement at a large agri-commodity company, where I saw how grading decides price.
+Team background
+Rohit Malviya (CEO) leads sales and FPO partnerships. Sneha Kulkarni (CTO) built our AI grading model from phone photos; she was previously an ML engineer at a food-tech company. We work with 120 FPOs and are mentored by Prof. Arvind Rao, an agricultural economist.
+Pitch deck
+https://drive.google.com/file/d/DEMO-khetora-deck/view
+The raise
+Round
+Pre-seed
+Amount
+30 Lakh
+Timeline
+Within 2 weeks
+Use of funds

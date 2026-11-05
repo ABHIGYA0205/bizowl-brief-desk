@@ -1,0 +1,11 @@
+@intake new application:
+Startup: KisanKart
+Sector: Agritech
+Stage: Pre-seed
+Problem: Small farmers in UP sell produce to middlemen at 30-40% below market price.
+Solution: App that connects farmers directly to local retailers with next-day pickup.
+Traction: 120 farmers onboarded, 14 retailers, Rs 3.2 lakh GMV in 2 months.
+Team: CEO ex-Ninjacart ops, CTO built 2 apps with 50k+ downloads.
+Funding ask: Rs 50 lakh
+Use of funds: 60% tech, 40% onboarding farmers in 3 new districts
+Founder contact: Ramesh Yadav, 9876543210

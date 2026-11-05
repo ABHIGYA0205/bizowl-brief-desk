@@ -1,10 +1,10 @@
 # Real applications never leave this machine
-private/
+/private/
 
 # Files the agents write while running
-applications/
-drafts/
-outbox/
+/applications/
+/drafts/
+/outbox/
 
 # Local stuff
 .env

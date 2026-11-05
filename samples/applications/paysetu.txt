@@ -1,0 +1,10 @@
+@intake new application:
+Startup: PaySetu
+Sector: Fintech
+Stage: Pre-seed
+Problem: Kirana stores in Tier-3 towns can't offer credit to regular customers, so they lose sales.
+Solution: A simple app for kiranas to give and track small customer credit, with UPI reminders.
+Traction: 340 kiranas using it, Rs 1.1 crore credit tracked in 3 months.
+Team: CEO ex-Paytm merchant ops, CTO ex-Razorpay engineer.
+Funding ask: Rs 40 lakh
+Use of funds: 50% product, 30% sales, 20% compliance

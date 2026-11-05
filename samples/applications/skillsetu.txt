@@ -1,0 +1,10 @@
+@intake new application:
+Startup: SkillSetu
+Sector: Edtech
+Stage: Seed
+Problem: Graduates in Tier-3 towns lack job-ready digital skills, and local employers can't find trained staff.
+Solution: 8-week hybrid courses in digital marketing and accounting, with placement tie-ups with local businesses.
+Traction: 620 students trained, 71% placement rate, Rs 38 lakh revenue in 12 months.
+Team: CEO ex-upGrad, CTO ex-Byju's product engineer.
+Funding ask: Rs 1.5 crore
+Use of funds: 40% new centres, 35% content, 25% placement team

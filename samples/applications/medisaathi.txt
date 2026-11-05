@@ -1,0 +1,11 @@
+@intake new application:
+Startup: MediSaathi
+Hide company name: yes
+Sector: Healthtech
+Stage: Pre-seed
+Problem: Patients in Tier-2 towns wait 3+ weeks for a specialist appointment.
+Solution: Founded by Dr. Priya Sharma (priya.sharma@medisaathi.example, +91 98111 22334), the app books specialist teleconsults within 48 hours through partner clinics.
+Traction: 9 partner clinics, 1,400 consults in 4 months, Rs 6 lakh revenue.
+Team: CEO Dr. Priya Sharma, 8 years at a government hospital (linkedin.com/in/priyasharma-demo). CTO ex-healthtech engineer.
+Funding ask: Rs 40 lakh
+Use of funds: 50% product, 50% clinic partnerships
