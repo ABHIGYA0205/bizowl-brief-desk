@@ -1,0 +1,11 @@
+# Real applications never leave this machine
+private/
+
+# Files the agents write while running
+applications/
+drafts/
+outbox/
+
+# Local stuff
+.env
+.DS_Store
