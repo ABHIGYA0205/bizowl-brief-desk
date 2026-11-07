@@ -79,6 +79,16 @@ We also ran one **real** BizOwl application through the desk, privately (see [Pr
 
 Sample output: [`examples/outputs/`](examples/outputs/) has approved briefs and emails from these runs.
 
+## By the numbers
+
+| | |
+| --- | --- |
+| Applications run through the desk | 7 — six fictional samples, plus one real BizOwl application run privately |
+| Agent time, paste to "Type approve to finalise" | about 4 minutes |
+| Investor questions surfaced on the real application | 6 |
+| Personal details left in the finished brief | 0 — checked by searching the output for names, phone numbers, emails and links |
+| Drafted intro emails the team approved | 5 of 12 |
+
 ## How Switch is used
 
 Switch is the workflow itself, not a wrapper around it. Every part of the desk below is a Switch feature.
