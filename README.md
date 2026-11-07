@@ -8,7 +8,7 @@ Built by team **Room_Mates** with [Switch](https://www.switchagents.ai/) during 
 | --- | --- |
 | 👥 **Team** | Room_Mates: Anurag Kumar and Abhigya |
 | 🏆 **Track** | Track 1: Best Business Workflow |
-| 📺 **Demo video** | Coming soon <!-- TODO: add the YouTube link --> |
+| 📺 **Demo video** | [Demo Video](https://www.youtube.com/watch?v=08uIkZkuxsc)
 | 🤖 **Agents** | 4 Claude Code agents: `intake`, `analyst`, `privacy`, `matcher` |
 | 💬 **Team chat** | Discord, through Switch's Discord bridge |
 | 🧩 **Switch features** | Rooms, room instructions, roles, a room document, linked rooms, permissions, human approval, a template |
